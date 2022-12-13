@@ -983,5 +983,6 @@
       "type_of_property": "Farm",
       "Rating": "4."
     }
-  ]
+  ],
+  "customers" :[]
 }
