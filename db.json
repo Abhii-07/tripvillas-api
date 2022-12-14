@@ -1003,5 +1003,14 @@
       "password": "$2b$10$UNqGqmOvwUvrwpxYa5FAM.UuV8nIGN1tJ2UhEeQ8JNAoth7EEayUG",
       "avatar": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/54.jpg"
     }
+  ],
+  "data" : [
+    {
+      "id" : 1,
+      "username": "Abhi007",
+      "firstname": "Abhi",
+      "lastname": "Hiwale",
+      "email": "Abhi@mail.com",
+    }
   ]
 }
