@@ -35,7 +35,7 @@ server.use(express.static("public"));
 
 // config
 const protectedRoutes = [
-  { route: "/users", methods: ["POST", "PUT", "DELETE", "PATCH"] },
+  // { route: "/users", methods: ["POST", "PUT", "DELETE", "PATCH"] },
   { route: "/posts", methods: ["POST", "PUT", "DELETE", "PATCH"] },
   { route: "/comments", methods: ["POST", "PUT", "DELETE", "PATCH"] },
   { route: "/photos", methods: ["POST", "PUT", "DELETE", "PATCH"] },
